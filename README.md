@@ -1,5 +1,6 @@
 # Hangman Crash Course
 
+Drawing the hangman - 
 ```c#
             Console.WriteLine(@"______   ");
             Console.WriteLine(@"|     |  ");
